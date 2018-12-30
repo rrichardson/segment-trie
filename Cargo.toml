@@ -1,0 +1,8 @@
+[package]
+name = "topictrie"
+version = "0.1.0"
+authors = ["Rick Richardson <rick.richardson@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+fasthash = "0.3.2"
